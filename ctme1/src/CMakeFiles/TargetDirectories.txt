@@ -1,0 +1,7 @@
+/mnt/c/MOBJ/ctme1/src/CMakeFiles/install.dir
+/mnt/c/MOBJ/ctme1/src/CMakeFiles/list_install_components.dir
+/mnt/c/MOBJ/ctme1/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MOBJ/ctme1/src/CMakeFiles/ctme1.dir
+/mnt/c/MOBJ/ctme1/src/CMakeFiles/install/strip.dir
+/mnt/c/MOBJ/ctme1/src/CMakeFiles/install/local.dir
+/mnt/c/MOBJ/ctme1/src/CMakeFiles/edit_cache.dir
